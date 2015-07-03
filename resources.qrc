@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/forward.png</file>
+	<file>icons/back.png</file>
+	<file>icons/go.png</file>
+    <file>icons/home.png</file>
+    <file>icons/browser.png</file>
+	<file>icons/stop.png</file>
+	<file>icons/zoom-in.png</file>
+	<file>icons/zoom-out.png</file>
+	<file>icons/cross.png</file>
+	<file>icons/refresh.png</file>
+</qresource>
+</RCC>
