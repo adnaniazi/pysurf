@@ -60,7 +60,7 @@ bdist_msi_options = {'data': msi_data}
 setup(
     name = "PySurf",
     version = '0.1',
-    description = "A Python-based timer",
+    description = "A Python-based web browser",
     options = {'bdist_msi':bdist_msi_options},
     executables = executables
 )
