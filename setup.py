@@ -14,7 +14,6 @@ executables = [
                base=base,
                targetName='PySurf.exe',
                icon='icon.ico'
-
                )
 ]
 
@@ -49,9 +48,6 @@ shortcut_table = [
 ]
 
 msi_data = {"Shortcut": shortcut_table}  # This will be part of the 'data' option of bdist_msi
-
-# Now create the table dictionary
-msi_data = {"Shortcut": shortcut_table}
 
 # Change some default MSI options and specify the use of the above defined tables
 bdist_msi_options = {'data': msi_data}
